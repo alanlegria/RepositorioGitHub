@@ -29,8 +29,8 @@ Se analizan diez compuestos halogenados con información de CAS SciFinder: 100 r
 
 | Integrante | GitHub |
 |---|---|
-| Laura Natalia Coy Amaya | [@saraarias234] |
-| Donato Ramos Aragón | [@saraarias234] |
+| Laura Natalia Coy Amaya | [@LauraCoy11] |
+| Donato Ramos Aragón | [@Donatoo0129] |
 | Diego Armando Orjuela Gama | [@diarorga2002-lab] |
 | Alan Santiago Alegría Astudillo | [@alanlegria] |
 | Sara Valentina Arias Rodríguez | [@saraarias234] |
