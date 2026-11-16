@@ -15,22 +15,23 @@ Se analizan diez compuestos halogenados con información de CAS SciFinder: 100 r
 
 | Carpeta | Contenido | Enlace |
 |---|---|---|
-| `Datos/` | Tablas de sustancias, reacciones y obtenciones | [Datos_Reacciones.xlsx](Datos/Datos_Reacciones.xlsx) |
-| `Análisis Visual/` | Notebook de Colab y presentación en Power BI | [Colab](An%C3%A1lisis%20Visual/Colab_halogenados.ipynb) · [Power BI](An%C3%A1lisis%20Visual/Presentaci%C3%B3n_proyecto.pbix) |
-| `Documentación/` | Informe en LaTeX (código fuente y PDF) | [Informe (PDF)](Documentaci%C3%B3n/InformeHalogenados.pdf) · [main.tex](Documentaci%C3%B3n/main.tex) |
+| `Datos/` | Tablas de sustancias, reacciones y obtenciones (`tablas_halogenados.xlsx`) | [Abrir carpeta Datos](Datos/) |
+| `Analisis visual/` | Notebook de Colab y presentación en Power BI (`Presentación_Halogenados.pbix`) | [Abrir carpeta Analisis visual](Analisis%20visual/) |
+| `Documentacion/` | Informe en LaTeX (código fuente, referencias y PDF) | [Abrir carpeta Documentacion](Documentacion/) |
 
 ## Cómo usar los archivos
 
-1. **Análisis gráfico:** abre el notebook desde la carpeta `Análisis Visual/` en Google Colab y ejecuta *Entorno de ejecución → Ejecutar todas*.
-2. **Presentación:** descarga el archivo `.pbix` y ábrelo con Power BI Desktop.
+1. **Análisis gráfico:** abre el notebook desde la carpeta `Analisis visual/` en Google Colab y ejecuta *Entorno de ejecución → Ejecutar todas*.
+2. **Presentación:** descarga `Presentación_Halogenados.pbix` y ábrelo con Power BI Desktop.
 3. **Informe:** compila `main.tex` con la plantilla del curso o lee el PDF directamente.
 
 ## Integrantes
 
 | Integrante | GitHub |
 |---|---|
-| Laura Natalia Coy Amaya | [@LauraCoy11] |
-| Donato Ramos Aragón | [@Donatoo0129] |
-| Diego Armando Orjuela Gama | [@diarorga2002-lab] |
-| Alan Santiago Alegría Astudillo | [@alanlegria] |
-| Sara Valentina Arias Rodríguez | [@saraarias234] |
+| Laura Natalia Coy Amaya | [@LauraCoy11](https://github.com/LauraCoy11) |
+| Donato Ramos Aragón | [@Donatoo0129](https://github.com/Donatoo0129) |
+| Diego Armando Orjuela Gama | [@diarorga2002-lab](https://github.com/diarorga2002-lab) |
+| Alan Santiago Alegría Astudillo | [@alanlegria](https://github.com/alanlegria) |
+| Sara Valentina Arias Rodríguez | [@saraarias234](https://github.com/saraarias234) |
+
